@@ -145,3 +145,8 @@ a img.calendar {
 	cursor: pointer;
 	vertical-align: middle;
 }
+
+/* don't show searchbox on static pages */
+#Mod28 {
+	display: none;
+}
