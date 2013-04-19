@@ -658,7 +658,7 @@ In this issue:<ul><li>Looking back on the preparatory phase of DARIAH</li><li>Es
 </div>
 </div>
 	
-				<!---->
+
 	
 			</div>
 			</div>
