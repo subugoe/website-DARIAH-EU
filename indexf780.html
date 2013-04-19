@@ -5,13 +5,12 @@
 
 
 
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="robots" content="index, follow" />
   <meta name="keywords" content="" />
   <meta name="description" content="" />
-  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
   <title>TGE Adonis</title>
   <link href="templates/ja_purity/favicon.ico" rel="shortcut icon" type="image/x-icon" />
   <script type="text/javascript" src="components/com_jcomments/js/jcomments-v2.15e1f.js?v=2"></script>
@@ -358,5 +357,5 @@ pageTracker._trackPageview();
 
 
 
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 </html>
