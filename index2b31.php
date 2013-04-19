@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
 
 
-<!-- Mirrored from localhost:8666/index.php?option=com_docman&task=doc_details&gid=423&Itemid=200 by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 18 Apr 2013 14:58:35 GMT -->
+
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -395,6 +395,6 @@ pageTracker._trackPageview();
 </body>
 
 
-<!-- Mirrored from localhost:8666/index.php?option=com_docman&task=doc_details&gid=423&Itemid=200 by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 18 Apr 2013 14:58:35 GMT -->
+
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 </html>
